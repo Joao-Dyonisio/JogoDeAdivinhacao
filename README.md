@@ -4,7 +4,8 @@ Seja bem-vindo(a) ao Jogo de Adivinhação! Trata-se de uma aplicação interati
 
 Este projeto é especialmente voltado para iniciantes em programação Java, sendo uma excelente oportunidade para praticar e consolidar conceitos fundamentais da linguagem, tais como estruturas de repetição, condicionais e manipulação de entrada e saída de dados.
 
-Funcionalidades
+Funcionalidades:
+
 Geração automática de um número secreto aleatório.
 
 Recebimento da entrada do jogador via teclado, utilizando a classe Scanner.
@@ -17,7 +18,8 @@ Exibição de mensagens de feedback com o intuito de orientar e engajar o usuár
 
 Opção de reiniciar o jogo ao final de cada rodada.
 
-Conceitos Aplicados
+Conceitos Aplicados:
+
 Este projeto aborda e implementa diversos conceitos básicos da linguagem Java, incluindo:
 
 Utilização da classe Scanner para captação de entradas do usuário.
